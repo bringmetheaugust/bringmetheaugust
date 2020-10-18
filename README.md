@@ -1,22 +1,6 @@
-<style>
-    .wrapper {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+<img align="left" alt="github logo" title="asshole :3" src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" />
 
-    @media only screen and (max-width: 800px) {
-        .wrapper {
-            flex-wrap: wrap;
-        }
-    }
-</style>
-
-<div class="wrapper">
-
-<img class="github-logo" alt="github logo" title="asshole :3" src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" />
-
-<div markdown="1">
+<span markdown="1" align="right">
 
 #### My name is August, and this is my friends: Sammy:tropical_fish: and Salmon:fish: ( - Wazap?!). Today, we're gonna teach you some fun facts about Salmon, and a brand new code:octocat::computer:... *<sub><sup>(c) Chemical Brothers - Salmon dance (covered by me)*</sup></sub>
 
@@ -24,6 +8,4 @@
 
 [![Telegram](https://img.shields.io/badge/-telegram-000?&logo=telegram)](http://t.me/bringmetheaugust) [![mail](https://img.shields.io/badge/-mail-000?&logo=gmail)](mailto:bringmetheaugust@gmail.com) [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=facebook)](http://facebook.com/bringmetheaugust) [![Skype](https://img.shields.io/badge/-Skype-000?&logo=skype)](skype:paipo0?chat) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/andrew-slabous-8b46a7199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdxlFJDgAR62MnTZgOOcWzA%3D%3D) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://ru.stackoverflow.com/users/310984/%d0%90%d0%b2%d0%b3%d1%83%d1%81%d1%82) [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen)](https://codepen.io/august_august)
 
-</div>
-
-</div>
+</span>
