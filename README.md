@@ -10,6 +10,7 @@
 
 ### Weeee!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/andrew-slabous-8b46a7199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdxlFJDgAR62MnTZgOOcWzA%3D%3D) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://ru.stackoverflow.com/users/310984/%d0%90%d0%b2%d0%b3%d1%83%d1%81%d1%82) [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen)](https://codepen.io/august_august)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/andrew-slabous-8b46a7199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdxlFJDgAR62MnTZgOOcWzA%3D%3D)-->
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://ru.stackoverflow.com/users/310984/%d0%90%d0%b2%d0%b3%d1%83%d1%81%d1%82) [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen)](https://codepen.io/august_august)
 
 </span>
